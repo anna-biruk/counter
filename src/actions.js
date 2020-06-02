@@ -2,7 +2,7 @@ export const inc=()=>{
     return{
         type: 'INC'
     }
-}
+};
 export function dec() {
     return {
         type: 'DEC'
@@ -14,4 +14,4 @@ res=()=>{
     return{
         type: 'RES'
     }
-}
+};
